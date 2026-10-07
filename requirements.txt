@@ -1,0 +1,5 @@
+histdata
+pandas
+numpy
+scipy
+matplotlib
